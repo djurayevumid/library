@@ -15,7 +15,7 @@ public class HW2 {
                 count++;
 
             }
-
+//just a comment, dont worry
         }
 return target;
     }
